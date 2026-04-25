@@ -1,0 +1,9 @@
+** Branching Commands **
+# to list branch: Git Branch --list
+# Git branch name: Git Branch branchname
+# To create and switch branch : git checkout -d branchname
+# Git Branch pu: Git pull origin main
+# Git Branch push: Git push origin main
+# To delete branch locally: Git brabch -d branch_name
+# To delete branch remotely: Git push alias name -d branch_name
+

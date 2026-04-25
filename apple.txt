@@ -1,0 +1,9 @@
+** Workflow of Git**
+-> Git initsilaization: GIT INIT
+-> Git to set the username: Git config username "  "
+-> Git add . to add all files
+-> to commit the message: Git commit -m "  "
+-> Estabish the connection: Git remote add origin url
+-> to push: Git push origin main
+-> to pull: Git pull origin main
+
