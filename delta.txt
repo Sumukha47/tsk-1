@@ -1,0 +1,4 @@
+To check who is current username: whoami
+To check who is default username: who
+To create username: adduser username
+
