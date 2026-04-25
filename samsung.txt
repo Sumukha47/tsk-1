@@ -1,0 +1,4 @@
+global infrastructure
+1.availability zones
+2.regions
+3.edge location

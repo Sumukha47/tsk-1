@@ -1,0 +1,8 @@
+initialize the git repo - git init
+configure the repo - git config username and git config mail of the user
+cloning the repo - git clone url
+going into the cloned folder - cd foldername
+creating file - touch file.txt
+adding it to the working directory - git add file.txt or git add .
+commiting the changes - git commit -m "message"
+pushing the chnages - git push origin master 
