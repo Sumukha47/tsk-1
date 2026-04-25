@@ -1,0 +1,16 @@
+The workflow has 3 stages
+1. Working Directory
+2. Staging Area
+3. Local Repo
+Steps :
+1. git init --- init the git in local machine
+2. git user.name ---- giving user name
+3. git user.email --- giving user email
+4. git add . ---- add the file to the staging area 
+5. git status --- to check the status of files 
+6. git commit -m "First Commit" .
+7. git log --- to see the commit which we made 
+8. git remote add origin <URL> -- connecting to the remote repo
+9. git push origin main -- push to github repo
+9. git remote -v  -- to check the connection
+ 

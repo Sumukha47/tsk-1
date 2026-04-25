@@ -1,0 +1,6 @@
+Branching commands :
+1. git branch <branch name> --- to create a new branch
+2. git su <branch name> --- to switch to another brach
+3. git branch --- to list all other branches in local repo
+4. git checkout -b <old branch> origin <new branch> -- to pull abranch from remote to local 
+5. git branch -r --- to all the braches in remote repo
