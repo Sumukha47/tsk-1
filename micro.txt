@@ -1,0 +1,6 @@
+branching commands
+1.git branch branchname - to create a branch
+2.git switch branchname - to switch to other branch
+3.git checkout -b branchname - to create and sitch to new branch
+4.git branch -r - to see branches of remote repo
+5.git branch -a to see all branches 
