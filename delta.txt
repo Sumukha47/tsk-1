@@ -1,0 +1,6 @@
+user management
+1.cat /etc/passwd to see all users
+2.git adduser username - to create user with directory
+3.git userdel username - to  delete user
+4.git userdel username -r - to delete username with directory
+
